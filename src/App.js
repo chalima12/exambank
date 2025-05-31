@@ -9,8 +9,8 @@ import { allQuestions } from './data/questions.js';
 // import { formatTime } from './utils/helpers.js';
 
 // Constants for exam duration and result display delay
-const EXAM_DURATION_SECONDS = 60 * 60; // 1 hour
-const RESULT_DELAY_SECONDS = 2 * 60; // 2 minutes
+const EXAM_DURATION_SECONDS = 15 * 60; // 1 hour
+const RESULT_DELAY_SECONDS = 1 * 60; // 2 minutes
 
 function App() {
   // Practice test states
