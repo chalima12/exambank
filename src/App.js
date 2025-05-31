@@ -1,12 +1,3 @@
-// src/App.js
-// IMPORTANT: Please ensure your project's directory structure and file names EXACTLY match these imports.
-// For example:
-// - 'Home.js' MUST be located at 'src/components/Home.js'
-// - 'PracticeTest.js' MUST be located at 'src/components/PracticeTest.js'
-// - 'questions.js' MUST be located at 'src/data/questions.js'
-// - 'helpers.js' MUST be located at 'src/utils/helpers.js'
-// Pay close attention to casing (e.g., 'components' vs 'Components').
-
 import React, { useState, useEffect, useRef, useCallback } from 'react'; // Added useCallback
 import Home from './components/Home.js';
 import PracticeTest from './components/PracticeTest.js';
