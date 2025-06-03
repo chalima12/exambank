@@ -9,7 +9,7 @@ function ExamWaitingForResults() {
         <p className="text-lg text-gray-600 mb-8 font-inter animate-pulse">
           Results will be displayed shortly...
         </p>
-        <p className="text-sm text-gray-500 font-inter">
+        <p className="text-sm text-gray-500 font-inter animate-pulse">
           Please wait for the results to be processed.
         </p>
       </div>
