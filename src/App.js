@@ -25,8 +25,8 @@ import { allQuestions as hardcodedQuestions } from './data/questions.js'; // Ren
 // import { getFirestore, collection, getDocs, addDoc } from 'firebase/firestore';
 
 // Constants for exam duration and result display delay
-const EXAM_DURATION_SECONDS = 60 * 60; // 1 hour
-const RESULT_DELAY_SECONDS = 2 * 60; // 2 minutes
+const EXAM_DURATION_SECONDS = 15 * 60; // 1 hour
+const RESULT_DELAY_SECONDS = 1 * 60; // 2 minutes
 
 // Removed Firebase Configuration variables as they are no longer needed
 // const firebaseConfig = typeof __firebase_config !== 'undefined' ? JSON.parse(__firebase_config) : {};
